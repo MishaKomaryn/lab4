@@ -1,5 +1,6 @@
 {
-    
+  "posts": [
+    {
     "id": 1,
     "Name":"Днiпровсько-Донецький"
     "Region": "Херсонська",
@@ -23,6 +24,9 @@
     "Vudob": "970",
     "Num_sv": "12",
     "sheme": "https://stud.com.ua/htm/img/32/2013/14.png"
-    
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
